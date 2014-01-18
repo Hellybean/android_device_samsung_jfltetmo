@@ -31,3 +31,4 @@ TARGET_OTA_ASSERT_DEVICE := jfltetmo
 
 # Kernel
 TARGET_KERNEL_CONFIG         := jf_tmo_defconfig
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := krait
